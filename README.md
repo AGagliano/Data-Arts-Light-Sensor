@@ -27,7 +27,7 @@ But first, we need to tell Kinoma what we even want to do. We do this in the mai
 
 To open the main.js file, go File > Open File.. > navigate to the folder name of your project > src > main.js <br>
 Notice the file is empty, so let's populate it with the code in the main.js file here in this github repository. <br>
-Navigate to main.js and copy the code and paste it into your main.js file in Kinoma Studio. <br>
+Navigate to src/main.js and copy the code and paste it into your main.js file in Kinoma Studio. <br>
 
 Remember to save!
 
@@ -39,7 +39,7 @@ To connect your Kinoma device so we can run all this code on it, we need to conn
 So, turn on your Kinoma. 
 Click the connect to WiFi button and follow the instructions to connect to a WiFi network. Note, this will not work very well on large public networks (e.g. Airbears or CalVisitor). If you don't have a private WiFi network to connect to, please try tethering your phone (e.g. creating a personal hotspot). 
 
-Make sure your computer is on the same Wifi network as the Kinoma. 
+Make sure your computer is on the same Wifi/hotspot network as the Kinoma. 
 
 Now, back in your Kinoma Studio, if you press the 'Refresh device list' your Kinoma device should populate. You'll notice the 'Run>' button associated with the device. This is what we will press to run the code on our Kinoma (we will come back to this though after we configure with our Initial State account we made). 
 
