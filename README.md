@@ -4,6 +4,8 @@ This code allows you to log the data you receive from your light sensor on your 
 Initial State helps you store your data for Internet of Things (IoT) devices and allows you to quickly view the data in action in real time. <br>
 Initial State also allows you to download the data as a .csv file. 
 
+
+
 ##Step 1
 
 Sign up for a free Initial State account: https://www.initialstate.com/ <br>
