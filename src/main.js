@@ -20,8 +20,8 @@
 
 Pins = require("pins");
 
-var BUCKET_KEY = "ECJDXP8CDS6D";
-var ACCESS_KEY = "TlGImW8S2maMXoqgtfOxvJZ90h82jSOf";
+var BUCKET_KEY = "YOUR BUCKET ID";
+var ACCESS_KEY = "YOUR ACCESS KEY";
 
 var INITIALSTATE_API_URI = "https://groker.initialstate.com/api/events"
 
