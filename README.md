@@ -25,6 +25,10 @@ Here, you can edit the ID, Title, and Version number. I'd just use the defaults 
 
 Now, you you'll see the the interface for your application project. This is where we will use wifi to connect our Kinoma device and run our application on the Kinoma. 
 
+Your Kinoma Studio should now look like this: 
+![Alt text](/New.Application_ScreenShot.png?raw=true "Optional Title")
+
+
 But first, we need to tell Kinoma what we even want to do. We do this in the main.js file. In this file we use JavaScript to tell Kinoma which pin to read analog values from (in our case this is Pin 53 for the analog pin of our light sensor). We can also use the JavaScript to have all the data we collect sent to Initial State so that we can save it and visualize it. We also use the JavaScript code to change how frequently we collect data. For example, we could collect data every second, once per minute, or once an hour.
 
 To open the main.js file, go File > Open File.. > navigate to the folder name of your project > src > main.js <br>
