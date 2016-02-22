@@ -25,7 +25,7 @@ Here, you can edit the ID, Title, and Version number. I'd just use the defaults 
 
 Now, you you'll see the the interface for your application project. This is where we will use wifi to connect our Kinoma device and run our application on the Kinoma. 
 
-Your Kinoma Studio should now look like this: 
+Your Kinoma Studio should now look like this (note, I titled my application 'Light Sensing Mission'): 
 ![Alt text](/New.Application_ScreenShot.png?raw=true "Optional Title")
 
 
