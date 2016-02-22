@@ -60,7 +60,7 @@ if ("YOUR BUCKET ID" == BUCKET_KEY || "YOUR ACCESS KEY" == ACCESS_KEY) {
 	Pins.configure({
         sensor: {pin: 53, type: "Analog"}
     }, success => {
-    	Pins.repeat("/sensor/read", 1000, function(analogValue) {
+    	Pins.repeat("/sensor/read", 60000, function(analogValue) {
 			application.delegate("onSensorValue", analogValue);
 		});
 	});
