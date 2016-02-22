@@ -42,10 +42,10 @@ Navigate to main.js in github:
 ![Alt text](/mainjs_github_ScreenShot.png?raw=true "Optional Title")
 
 Highlight and copy the code (lines 1-67):
-![Alt text](/codecopy_github_ScreenShot.png?raw=true "Optional Title")
+![Alt text](/copycode_github_ScreenShot.png?raw=true "Optional Title")
 
 Paste the code into the main.js file in your Kinoma Studio: 
-![Alt text](/pastecopy_github_ScreenShot.png?raw=true "Optional Title")
+![Alt text](/pastecode_ScreenShot.png?raw=true "Optional Title")
 
 Remember to ctrl-s to save the main.js file!
 
